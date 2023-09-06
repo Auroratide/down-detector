@@ -1,0 +1,13 @@
+{
+	"name": "@auroratide/down-detector",
+	"version": "0.1.0",
+	"description": "",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"keywords": [],
+	"author": "Timothy Foster",
+	"license": "ISC"
+}
